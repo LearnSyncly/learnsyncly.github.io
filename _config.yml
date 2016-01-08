@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: LearnSyncly
+description: Team insights on building LearnSyncly
+meta_description: "Team insights on building LearnSyncly"
 
 aboutPage: true
 
@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
+author:         'LearnSyncly'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
